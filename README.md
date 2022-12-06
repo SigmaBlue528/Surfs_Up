@@ -58,19 +58,19 @@ Summary
 Conclusion:
 On 12/08/2022 Bonilla Analytics concluded the objectives that were initially set forth in the beginning of this proposal. It has been determined that the proposed business entity known as Icy Reef shop is in fact viable, sustainable, and (most likely will be) profitable for business year-round on the island of Oahu in the State of Hawaii. The data also points to other potential revenue streams that might not have originally been considered in the initial business proposal. These potential revenue streams include:
 
-  o	Renting or selling wet suits.
-  
-  o	Selling of Tourist products such as towels and local art.
-  
-  o	Selling of consumables such as sunscreen, sunblock, snacks, and beverages (alcoholic and non-alcoholic).
-  
-  o	Establishing a venue for live music.
-  
-  o	Establishing a restaurant. 
-  
-  o	Selling shaved ice.
-  
-  o	Renting/selling of lockers for personal items.
-  
-  o	Selling of electricity via charging stations (with energy produced from solar panels on the roof).
+        o	Renting or selling wet suits.
+
+        o	Selling of Tourist products such as towels and local art.
+
+        o	Selling of consumables such as sunscreen, sunblock, snacks, and beverages (alcoholic and non-alcoholic).
+
+        o	Establishing a venue for live music.
+
+        o	Establishing a restaurant. 
+
+        o	Selling shaved ice.
+
+        o	Renting/selling of lockers for personal items.
+
+        o	Selling of electricity via charging stations (with energy produced from solar panels on the roof).
 
